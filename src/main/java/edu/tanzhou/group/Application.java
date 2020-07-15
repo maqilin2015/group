@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-	// 第一次提交master1
-	// 第一次提交 branch1
+	// 第一次提交master2
+	// 第一次提交 branch2
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
