@@ -8,6 +8,7 @@ public class WebInitializer extends SpringBootServletInitializer{
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		// 1
 		return application.sources(Application.class);
+		// 1
 	}
 	
 	
